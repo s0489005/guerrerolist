@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+body {
+  font-family: cursive;
+  background-image: url(https://i.ibb.co/GtGxT0F/pxfuel-com.jpg);
+  background-repeat: repeat-y;
+  background-position: center top;
+  background-size: 100%;
+}
+
+#div {
+  background-color: rgb(160,160,160,.2);
+  display: block;
+  margin: 5% auto;
+  width: 50%;
+  height: auto;
+  padding: 5%;
+  border: 2px dotted grey;
+  border-radius: 10px;
+}
+
+#content {
+  width: 50%;
+  margin: auto;
+  padding: 0;
+}
+
+#addbtn {
+  background-color: lightgreen;
+  border: 0;
+  padding: 1% 3%;
+}
+
+#remove {
+  background-color: lightcoral;
+  border: 0;
+  padding: 1% 3%;
+}
+
